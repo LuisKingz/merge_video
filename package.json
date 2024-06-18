@@ -1,0 +1,19 @@
+{
+  "name": "merge-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.1.2",
+    "@types/fluent-ffmpeg": "^2.1.24",
+    "fluent-ffmpeg": "^2.1.2",
+    "mkdirp": "^3.0.1",
+    "tmp": "^0.2.1"
+  }
+}
